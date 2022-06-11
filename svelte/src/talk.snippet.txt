@@ -1,0 +1,7 @@
+<script lang="ts">
+  export let talk = {
+    title: "Future of Frontend Development",
+    venue: "Berlin",
+    img: "/berlin.jpg",
+  };
+</script>
