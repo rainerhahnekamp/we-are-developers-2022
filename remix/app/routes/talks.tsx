@@ -1,6 +1,8 @@
 interface LoaderData {}
 
-export function loader() {}
+export function loader() {
+
+}
 
 export default function Talks() {
   return (
